@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aff46c2f-6308-4fcf-a47a-dad20749b127" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../consumer2/.idea/consumer2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Implementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Implementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/.idea/artifacts/consumer1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/.idea/consumer1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/.idea/consumer1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/out/artifacts/consumer1_jar/consumer1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/out/artifacts/consumer1_jar/consumer1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/out/artifacts/consumer1_war_exploded/WEB-INF/classes/ConsumerOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/out/artifacts/consumer1_war_exploded/WEB-INF/classes/ConsumerOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/out/artifacts/consumer1_war_exploded/WEB-INF/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/out/artifacts/consumer1_war_exploded/WEB-INF/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/out/artifacts/consumer1_war_exploded/WEB-INF/classes/model/LikesObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/out/artifacts/consumer1_war_exploded/WEB-INF/classes/model/LikesObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/target/classes/ConsumerOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/target/classes/ConsumerOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer1/target/classes/model/LikesObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer1/target/classes/model/LikesObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consumer2/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer2/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-hw2/out/artifacts/server_hw2_war/server-hw2_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/../server-hw2/out/artifacts/server_hw2_war/server-hw2_war.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-hw2/out/artifacts/server_hw2_war_exploded/WEB-INF/classes/HW2Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../server-hw2/out/artifacts/server_hw2_war_exploded/WEB-INF/classes/HW2Servlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-hw2/src/main/java/HW2Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server-hw2/src/main/java/HW2Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-hw2/target/classes/HW2Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../server-hw2/target/classes/HW2Servlet.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LD50tp6z5khKthFAo2CCuQavTV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ruiweisui/Desktop/cs6650/hw/hw2/client-part2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.25883391&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="client-part2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwipeApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="client-part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.client.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.client.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.client.api.SwipeApiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SwipeApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff46c2f-6308-4fcf-a47a-dad20749b127" name="Changes" comment="" />
+      <created>1675392592192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675392592192</updated>
+      <workItem from="1675392597661" duration="8000" />
+      <workItem from="1675392762245" duration="273000" />
+      <workItem from="1675393103643" duration="18000" />
+      <workItem from="1675461952725" duration="690000" />
+      <workItem from="1675463294793" duration="52232000" />
+      <workItem from="1675735421464" duration="331000" />
+      <workItem from="1675735797701" duration="69000" />
+      <workItem from="1675737146025" duration="1129000" />
+      <workItem from="1675794074651" duration="372000" />
+      <workItem from="1675798067821" duration="602000" />
+      <workItem from="1675801380603" duration="3609000" />
+      <workItem from="1675811314756" duration="398000" />
+      <workItem from="1675818000867" duration="160000" />
+      <workItem from="1675818165173" duration="6000" />
+      <workItem from="1675824817853" duration="3081000" />
+      <workItem from="1675868597840" duration="2774000" />
+      <workItem from="1675875241117" duration="16000" />
+      <workItem from="1675875616125" duration="43000" />
+      <workItem from="1675875675131" duration="270000" />
+      <workItem from="1675875975509" duration="855000" />
+      <workItem from="1675877176556" duration="7541000" />
+      <workItem from="1675905612252" duration="508000" />
+      <workItem from="1675906397341" duration="495000" />
+      <workItem from="1675971458340" duration="1815000" />
+      <workItem from="1675983152425" duration="1811000" />
+      <workItem from="1675985456277" duration="2909000" />
+      <workItem from="1675996947684" duration="15000" />
+      <workItem from="1675997799318" duration="1123000" />
+      <workItem from="1676001290491" duration="832000" />
+      <workItem from="1676004530667" duration="4098000" />
+      <workItem from="1676045343617" duration="10756000" />
+      <workItem from="1676074776341" duration="25000" />
+      <workItem from="1676074820153" duration="722000" />
+      <workItem from="1676078006956" duration="658000" />
+      <workItem from="1676100593056" duration="189000" />
+      <workItem from="1676146775174" duration="77000" />
+      <workItem from="1676147245745" duration="1043000" />
+      <workItem from="1676156672383" duration="6309000" />
+      <workItem from="1677130999694" duration="3529000" />
+      <workItem from="1677141669347" duration="1723000" />
+      <workItem from="1677143693928" duration="1262000" />
+      <workItem from="1677145742856" duration="13000" />
+      <workItem from="1677145898225" duration="82000" />
+      <workItem from="1677187034085" duration="1054000" />
+      <workItem from="1677289901381" duration="24000" />
+      <workItem from="1677457904181" duration="7742000" />
+      <workItem from="1677490533983" duration="9511000" />
+      <workItem from="1677569405965" duration="2626000" />
+      <workItem from="1677577857713" duration="1012000" />
+      <workItem from="1677578996742" duration="3000" />
+      <workItem from="1677611358385" duration="8982000" />
+      <workItem from="1677647016863" duration="5506000" />
+      <workItem from="1677788769410" duration="7883000" />
+      <workItem from="1677936173993" duration="96000" />
+      <workItem from="1678204856190" duration="102000" />
+      <workItem from="1679627843836" duration="31000" />
+      <workItem from="1679803498395" duration="2139000" />
+      <workItem from="1679951748173" duration="115000" />
+      <workItem from="1679951882454" duration="72000" />
+      <workItem from="1679952477860" duration="151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.SocketTimeoutException" package="java.net" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="io.swagger.client.ApiException" package="io.swagger.client" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

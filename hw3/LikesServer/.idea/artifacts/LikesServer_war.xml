@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LikesServer:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/LikesServer_war</output-path>
+    <root id="archive" name="LikesServer_war.war">
+      <element id="artifact" artifact-name="LikesServer:war exploded" />
+    </root>
+  </artifact>
+</component>

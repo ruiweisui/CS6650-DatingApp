@@ -1,0 +1,81 @@
+/Users/ruiweisui/Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/ruiweisui/.m2/repository/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar:/Users/ruiweisui/.m2/repository/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar:/Users/ruiweisui/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar:/Users/ruiweisui/.m2/repository/com/squareup/okhttp/logging-interceptor/2.7.5/logging-interceptor-2.7.5.jar:/Users/ruiweisui/.m2/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar:/Users/ruiweisui/.m2/repository/io/gsonfire/gson-fire/1.8.3/gson-fire-1.8.3.jar:/Users/ruiweisui/.m2/repository/org/threeten/threetenbp/1.3.5/threetenbp-1.3.5.jar:/Users/ruiweisui/.m2/repository/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11.jar:/Users/ruiweisui/.m2/repository/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11.jar:/Users/ruiweisui/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar:/Users/ruiweisui/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/ruiweisui/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'swagger-java-client 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'swagger-java-client 1.0.0 API'
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client.auth
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client
+io.swagger.client.model
+io.swagger.client.model
+io.swagger.client.api
+io.swagger.client
+io.swagger.client
+/Users/ruiweisui/.m2/repository/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar = 1675314962937
+/Users/ruiweisui/.m2/repository/com/squareup/okhttp/okhttp/2.7.5/okhttp-2.7.5.jar = 1675314963073
+/Users/ruiweisui/.m2/repository/com/squareup/okio/okio/1.6.0/okio-1.6.0.jar = 1675314963019
+/Users/ruiweisui/.m2/repository/com/squareup/okhttp/logging-interceptor/2.7.5/logging-interceptor-2.7.5.jar = 1675314962995
+/Users/ruiweisui/.m2/repository/com/google/code/gson/gson/2.8.1/gson-2.8.1.jar = 1675314963043
+/Users/ruiweisui/.m2/repository/io/gsonfire/gson-fire/1.8.3/gson-fire-1.8.3.jar = 1675314962975
+/Users/ruiweisui/.m2/repository/org/threeten/threetenbp/1.3.5/threetenbp-1.3.5.jar = 1675314963127
+/Users/ruiweisui/.m2/repository/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11.jar = 1675315925406
+/Users/ruiweisui/.m2/repository/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11.jar = 1675315925502
+/Users/ruiweisui/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar = 1675315925581
+/Users/ruiweisui/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar = 1675315925470
+/Users/ruiweisui/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar = 1675315925452
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/src/main/java = 1675327763068
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/constant-values.html = 1675328219943
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/member-search-index.zip = 1675328220065
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/overview-tree.html = 1675328220033
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/index.html = 1675328220086
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/package-search-index.js = 1675328220058
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/jquery-ui.overrides.css = 1675328220107
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/package-search-index.zip = 1675328220062
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/type-search-index.zip = 1675328220063
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/serialized-form.html = 1675328219950
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/index-all.html = 1675328220068
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/allpackages-index.html = 1675328220075
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/deprecated-list.html = 1675328220080
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/member-search-index.js = 1675328220064
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/allclasses.html = 1675328220082
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/script.js = 1675328220093
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/stylesheet.css = 1675328220092
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/overview-summary.html = 1675328220087
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/help-doc.html = 1675328220090
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/element-list = 1675328219902
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/allclasses-index.html = 1675328220073
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/type-search-index.js = 1675328220063
+/Users/ruiweisui/Desktop/cs6650/hw/java-client-generated/target/apidocs/search.js = 1675328220095

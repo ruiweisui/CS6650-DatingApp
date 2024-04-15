@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PostServletNonRMQ:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/PostServletNonRMQ_war</output-path>
+    <root id="archive" name="PostServletNonRMQ_war.war">
+      <element id="artifact" artifact-name="PostServletNonRMQ:war exploded" />
+    </root>
+  </artifact>
+</component>

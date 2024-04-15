@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aff46c2f-6308-4fcf-a47a-dad20749b127" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client-part2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client-part2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client-part2/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../client-part2/result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client-part2/src/main/java/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client-part2/src/main/java/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client-part2/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client-part2/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/data_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../util/data_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/end.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../util/end.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/start.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../util/start.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LD50tp6z5khKthFAo2CCuQavTV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ruiweisui/Desktop/cs6650/hw1/client-part1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="client-part1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwipeApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.swagger.client.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.swagger.client.api" />
+      <option name="MAIN_CLASS_NAME" value="io.swagger.client.api.SwipeApiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.SwipeApiTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SwipeApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff46c2f-6308-4fcf-a47a-dad20749b127" name="Changes" comment="" />
+      <created>1675392592192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675392592192</updated>
+      <workItem from="1675392597661" duration="8000" />
+      <workItem from="1675392762245" duration="273000" />
+      <workItem from="1675393103643" duration="18000" />
+      <workItem from="1675461952725" duration="690000" />
+      <workItem from="1675463294793" duration="52232000" />
+      <workItem from="1675735421464" duration="331000" />
+      <workItem from="1675735797701" duration="69000" />
+      <workItem from="1675737146025" duration="1129000" />
+      <workItem from="1675794074651" duration="372000" />
+      <workItem from="1675798067821" duration="602000" />
+      <workItem from="1675801380603" duration="3609000" />
+      <workItem from="1675811314756" duration="398000" />
+      <workItem from="1675818000867" duration="160000" />
+      <workItem from="1675818165173" duration="6000" />
+      <workItem from="1675824817853" duration="3081000" />
+      <workItem from="1675868597840" duration="2774000" />
+      <workItem from="1675875241117" duration="16000" />
+      <workItem from="1675875616125" duration="43000" />
+      <workItem from="1675875675131" duration="270000" />
+      <workItem from="1675875975509" duration="855000" />
+      <workItem from="1675877176556" duration="7541000" />
+      <workItem from="1675905612252" duration="508000" />
+      <workItem from="1675906397341" duration="495000" />
+      <workItem from="1675971458340" duration="1815000" />
+      <workItem from="1675983152425" duration="1811000" />
+      <workItem from="1675985456277" duration="2909000" />
+      <workItem from="1675996947684" duration="15000" />
+      <workItem from="1675997799318" duration="1123000" />
+      <workItem from="1676001290491" duration="832000" />
+      <workItem from="1676004530667" duration="4098000" />
+      <workItem from="1676045343617" duration="10756000" />
+      <workItem from="1676074124589" duration="648000" />
+      <workItem from="1676076320454" duration="1450000" />
+      <workItem from="1676168730256" duration="4358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
